@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestRxDaggerMVP</string>
+    <string name="sort_ab">Sort AB</string>
+    <string name="engine">Engine:</string>
+    <string name="color">Color:</string>
+</resources>
